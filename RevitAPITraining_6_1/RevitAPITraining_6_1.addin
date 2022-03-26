@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining_6_1.dll"</Assembly>
+		<AddInId>76452091-367D-4012-82A5-D78CD5771FEA</AddInId>
+		<FullClassName>RevitAPITraining_6_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание воздуховода</Text>
+	</AddIn>
+</RevitAddIns>
